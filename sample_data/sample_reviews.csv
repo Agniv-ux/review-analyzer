@@ -1,0 +1,70 @@
+review_id,text,rating,likes,date,app_version
+sample-042,The calories burned number is way off. It says 900 calories for a 20 minute walk.,2,1,2026-11-09 16:00:00,4.1.3
+sample-020,I accidentally tap ads all the time because they appear right where the next button is.,2,22,2026-11-08 21:00:00,4.2.0
+sample-051,Plans for home workouts with no equipment are perfect for me.,5,22,2026-11-08 13:00:00,4.2.1
+sample-007,The smartwatch sync fails and then the whole app shuts down. Happens on two different phones.,2,14,2026-11-07 23:00:00,4.2.0
+sample-010,"Crash crash crash. Open app, press sync watch, crash. Fix it.",1,2,2026-11-07 05:00:00,4.2.0
+sample-053,"Simple, clean design. I found everything without needing a tutorial.",5,1,2026-11-06 13:00:00,4.1.3
+sample-035,The subscription price doubled. Not worth it for what you get.,2,0,2026-11-06 03:00:00,4.2.0
+sample-065,nice app,5,0,2026-11-05 15:00:00,4.2.1
+sample-024,Please add dark mode. Every other app I use has one.,3,14,2026-11-04 21:00:00,4.2.1
+sample-038,Please let me export my workout history to a spreadsheet or CSV file.,4,5,2026-11-04 08:00:00,4.2.1
+sample-004,"Since version 4.2 the app freezes and crashes during watch sync. Please fix this, it is unusable.",1,0,2026-11-03 19:00:00,4.2.0
+sample-033,Never receive the login code. Checked spam too. Locked out of my account.,1,8,2026-11-03 03:00:00,4.1.3
+sample-014,The ads are out of control. A video ad plays before I can even log my run.,1,3,2026-11-02 13:00:00,4.2.0
+sample-003,Crashes when syncing my smartwatch. I lost three days of workout data because of this.,2,14,2026-11-01 23:00:00,4.2.0
+sample-006,"Every time I connect my fitness band the app crashes. Reinstalled twice, same problem.",1,8,2026-11-01 14:00:00,4.2.1
+sample-028,Needs a dark mode. The bright white background drains my battery too.,3,2,2026-10-31 18:00:00,4.2.0
+sample-027,Nice and simple. Dark mode would make it perfect for night use.,4,1,2026-10-31 03:00:00,4.2.1
+sample-005,Love the idea but the watch sync crash makes it pointless. It closes as soon as I tap sync.,2,0,2026-10-30 20:00:00,4.2.1
+sample-016,Too many ads now. I understand free apps need them but not in the middle of a workout timer.,2,2,2026-10-30 06:00:00,4.2.0
+sample-054,So easy to use. The interface is clean and not cluttered like other fitness apps.,5,0,2026-10-29 16:00:00,4.2.0
+sample-036,I like the app but the premium price increase is hard to justify.,3,5,2026-10-28 22:00:00,4.2.0
+sample-063,Would be nice to have a tablet layout.,3,0,2026-10-28 06:00:00,4.2.1
+sample-058,The progress charts are really motivating. I love seeing my weekly streak.,5,1,2026-10-27 21:00:00,4.2.0
+sample-037,Why is the yearly plan so expensive now? Cancelled my subscription.,2,5,2026-10-27 07:00:00,4.1.3
+sample-008,"Cannot sync my watch at all anymore, app crashes instantly. I paid for premium for this?",1,0,2026-10-26 17:00:00,4.2.0
+sample-015,Used to be great but now there is an ad every time I change screens. Too many ads.,2,14,2026-10-26 01:00:00,4.2.1
+sample-041,Would love a way to download all my workout data.,4,22,2026-10-25 08:00:00,4.2.1
+sample-068,"बहुत अच्छा ऐप है, मुझे यह बहुत पसंद आया",5,14,2026-10-24 19:00:00,4.1.3
+sample-059,Nice graphs showing my progress over the months.,4,0,2026-10-24 11:00:00,4.2.0
+sample-046,Best workout plans I have found in a free app. I have lost 6 kg in three months.,5,0,2026-10-23 20:00:00,4.2.1
+sample-045,The workout plans are excellent. Clear instructions and they get harder at the right pace.,5,0,2026-10-22 23:00:00,4.2.0
+sample-026,Love the workout plans. Can we get dark mode please?,5,2,2026-10-22 09:00:00,4.2.0
+sample-039,I want to export my data to share with my trainer. There is no option for that.,3,5,2026-10-21 21:00:00,4.2.0
+sample-043,Calorie counts do not look accurate compared with my watch and the gym machines.,3,1,2026-10-21 04:00:00,4.2.0
+sample-055,I like how simple the layout is. Logging a workout takes two taps.,4,5,2026-10-20 15:00:00,4.1.3
+sample-009,Watch syncing keeps crashing the app after the update. My steps have not updated in a week.,2,3,2026-10-20 06:00:00,4.1.3
+sample-019,An unskippable 30 second ad after each exercise is ridiculous.,2,22,2026-10-19 17:00:00,4.1.3
+sample-056,Clean design and very easy to navigate. My parents use it too.,5,8,2026-10-18 22:00:00,4.2.0
+sample-066,super,4,0,2026-10-18 15:00:00,4.2.1
+sample-018,Good app but the number of ads has doubled recently. Considering switching.,3,3,2026-10-17 18:00:00,4.2.1
+sample-048,The 30 day plans keep me motivated. Really well designed workouts.,5,1,2026-10-17 06:00:00,4.2.0
+sample-032,"Signing in with email does not work, no code is sent. Google sign in works though.",2,14,2026-10-16 19:00:00,4.2.0
+sample-064,good,5,0,2026-10-16 01:00:00,4.2.0
+sample-029,I cannot log in. The verification code never arrives in my email.,1,0,2026-10-15 10:00:00,4.2.0
+sample-022,"Great app. Please add a dark mode, the white screen is blinding during early morning workouts.",4,0,2026-10-14 21:00:00,4.2.0
+sample-049,Workout plans are great and varied. I never get bored.,4,2,2026-10-14 10:00:00,4.1.3
+sample-047,"Love the guided workout plans, especially the beginner one. Easy to follow.",5,3,2026-10-13 16:00:00,4.2.1
+sample-052,Really good structured plans. The rest timers between sets are a nice touch.,4,8,2026-10-13 06:00:00,4.2.1
+sample-021,The app is useful but the ads between every screen make it slow and frustrating.,3,0,2026-10-12 11:00:00,4.1.3
+sample-061,My friend told me about this app and I have been using it since.,4,3,2026-10-12 02:00:00,4.1.3
+sample-012,The latest update broke smartwatch sync. App closes with no error message.,1,0,2026-10-11 10:00:00,4.2.0
+sample-060,It is okay I guess. Does what it says.,3,0,2026-10-10 23:00:00,4.2.0
+sample-034,Premium went from 4 dollars to 9 dollars a month with no new features. Too expensive now.,2,14,2026-10-10 04:00:00,4.2.0
+sample-040,Good tracker. An export to CSV feature would help me a lot.,4,5,2026-10-09 12:00:00,4.2.1
+sample-001,App crashes every single time I try to sync with my smartwatch. Was fine before the last update.,1,3,2026-10-09 02:00:00,4.2.1
+sample-062,Battery drains very fast when the app runs in the background.,1,1,2026-10-08 08:00:00,4.1.3
+sample-017,Ads pop up while I am exercising and pause my timer. Really annoying.,1,22,2026-10-08 01:00:00,4.2.0
+sample-044,"Calorie estimates are clearly wrong, it shows the same number whatever I do.",2,0,2026-10-07 05:00:00,4.2.1
+sample-057,The app looks great and is simple to use. Exactly what I wanted.,5,5,2026-10-06 23:00:00,4.1.3
+sample-067,bad,1,0,2026-10-06 05:00:00,4.2.1
+sample-023,Would be five stars with a dark mode. I work out at night and the brightness hurts my eyes.,4,14,2026-10-05 18:00:00,4.2.1
+sample-025,Really like it. Only request is a dark theme option.,4,0,2026-10-05 02:00:00,4.2.0
+sample-030,Login is broken. I asked for the code five times and nothing came.,2,0,2026-10-04 11:00:00,4.1.3
+sample-013,Way too many ads after the last update. I get a full screen ad after every single workout.,2,3,2026-10-04 00:00:00,4.2.0
+sample-050,The training plans are the reason I use this app every day. Fantastic.,5,0,2026-10-03 11:00:00,4.2.0
+sample-dup,The training plans are the reason I use this app every day. Fantastic.,5,0,2026-10-03 11:00:00,4.2.0
+sample-002,Sync with my watch is completely broken now. The app just closes itself halfway through.,1,5,2026-10-02 17:00:00,4.2.1
+sample-031,Stuck on the login screen for two days because the verification email does not arrive.,1,1,2026-10-02 07:00:00,4.1.3
+sample-011,Sync crashes with my smartwatch nine times out of ten. When it works the data is fine.,2,1,2026-10-01 10:00:00,4.2.0
